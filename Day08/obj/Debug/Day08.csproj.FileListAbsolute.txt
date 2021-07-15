@@ -1,0 +1,7 @@
+E:\Project\C#Porject\SolutionBase\Day08\bin\Debug\Day08.exe.config
+E:\Project\C#Porject\SolutionBase\Day08\bin\Debug\Day08.exe
+E:\Project\C#Porject\SolutionBase\Day08\bin\Debug\Day08.pdb
+E:\Project\C#Porject\SolutionBase\Day08\obj\Debug\Day08.csprojAssemblyReference.cache
+E:\Project\C#Porject\SolutionBase\Day08\obj\Debug\Day08.csproj.CoreCompileInputs.cache
+E:\Project\C#Porject\SolutionBase\Day08\obj\Debug\Day08.exe
+E:\Project\C#Porject\SolutionBase\Day08\obj\Debug\Day08.pdb
